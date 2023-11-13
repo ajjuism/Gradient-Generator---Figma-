@@ -39,3 +39,4 @@ We recommend writing TypeScript code using Visual Studio code:
 
 That's it! Visual Studio Code will regenerate the JavaScript file every time you save.
 # Gradient-Generator---Figma-
+# Gradient-Generator---Figma-
